@@ -28,3 +28,4 @@ class Car {
 const myCar = new Car('Mercedes', 50);
 myCar.fill(5);
 myCar.drive(100);
+
